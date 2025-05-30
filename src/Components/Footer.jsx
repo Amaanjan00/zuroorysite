@@ -23,7 +23,7 @@ function Footer() {
                     <ul className='items-center lg:items-start flex flex-col'>
                         <li><a href="">Customer Care</a></li>
                         <li><a href="">Shipping & Returns</a></li>
-                        <li><a href="">Terms & COnditions</a></li>
+                        <li><a href="">Terms & Conditions</a></li>
                         <li><a href="">Privacy Poilicy</a></li>
                         <li><a href="">Contact Us</a></li>
                     </ul>
